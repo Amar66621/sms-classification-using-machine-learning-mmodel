@@ -4,10 +4,10 @@ This project aims to classify SMS messages into spam or ham (not spam) categorie
 <h3>Dependencies</h3>
 This project requires Python 3 and the following libraries:
 <ul>
-NumPy
-pandas
+NumPy<br>
+pandas<br>
 scikit-learn</ul>
-You can install the dependencies using pip:
+You can install the dependencies using pip:<br>
 <b>pip install numpy pandas scikit-learn</b>
 <h2>Model</h2>
 <p>We used a machine learning model based on [describe your model here, e.g., Support Vector Machine (SVM), Naive Bayes, etc.]. The model was trained using [insert details about training process, hyperparameters, etc.].</p>
